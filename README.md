@@ -53,8 +53,6 @@ O sistema é controlado por um menu interativo no terminal e permite:
     ```bash
     python projeto_banco.py
     ```
-4.  Siga as instruções do menu interativo no terminal.
-
----
+4.  Siga as instruções do menu interativo no terminal...
 
 ## 👨‍💻 ArthurDays
